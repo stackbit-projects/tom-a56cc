@@ -45,7 +45,7 @@ params:
         label: Instagram
         url: 'https://www.instagram.com/'
         style: icon
-        icon_class: instagram
+        icon_class: youtube
         new_window: true
       - type: action
         template: action
