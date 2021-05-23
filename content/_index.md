@@ -55,7 +55,7 @@ seo:
     - name: 'twitter:title'
       value: Tom Hall
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Just for fun
     - name: 'twitter:image'
       value: /_static/app-assets/melodic-saturn.png
       relativeUrl: true
