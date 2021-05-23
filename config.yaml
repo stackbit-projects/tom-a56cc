@@ -65,8 +65,8 @@ params:
     type: footer
     template: footer
     content: >-
-      &copy; tom. All rights reserved. This  site was created as a personal site
-      to  </a>
+      &copy; tom. All rights reserved. This  site was created as a personal
+      site  </a>
   domain: 'https://tom-a56cc.netlify.app'
 taxonomies:
   stub: stub
