@@ -64,12 +64,7 @@ params:
   footer:
     type: footer
     template: footer
-    content: >-
-      &copy; tom. All rights reserved. This  site was created with <a
-      href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+    content: '&copy; tom. All rights reserved. This  site was created </a>'
   domain: 'https://tom-a56cc.netlify.app'
 taxonomies:
   stub: stub
