@@ -44,7 +44,7 @@ seo:
       value: Tom Hall
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Just for fun
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/maroon-iron.png
