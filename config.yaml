@@ -6,7 +6,7 @@ params:
   header:
     type: header
     template: header
-    title: Stackbit Fresh
+    title: Tom Hall
     tagline: Header Tagline
     profile_img: /images/tom(1).jpg
     profile_img_alt: Author avatar
