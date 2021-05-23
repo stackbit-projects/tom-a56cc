@@ -65,7 +65,7 @@ params:
     type: footer
     template: footer
     content: © Stackbit. All rights reserved.
-  domain: 'https://tom-a56cc.netlify.app'
+  domain: 'https://tomhall.site'
 taxonomies:
   stub: stub
 disableKinds:
