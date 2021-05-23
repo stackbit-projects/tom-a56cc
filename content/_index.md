@@ -19,12 +19,7 @@ sections:
       a computer engineer for the public sector but have a strong interest in
       cyber security and ethical hacking.
 
-    actions:
-      - type: action
-        template: action
-        label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - type: section_posts
     template: section_posts
     title: Recent Posts
