@@ -35,7 +35,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Tom Hall
-  description: The preview of the Fresh theme
+  description: Just for fun
   extra:
     - name: 'og:type'
       value: website
