@@ -64,7 +64,7 @@ params:
   footer:
     type: footer
     template: footer
-    content: '&copy; tom. All rights reserved. This  site was created so i can </a>'
+    content: '&copy; tom. All rights reserved. This  site was created  </a>'
   domain: 'https://tom-a56cc.netlify.app'
 taxonomies:
   stub: stub
