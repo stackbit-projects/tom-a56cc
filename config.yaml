@@ -7,7 +7,7 @@ params:
     type: header
     template: header
     title: Tom Hall
-    tagline: Header Tagline
+    tagline: Personal Site
     profile_img: /images/tom(1).jpg
     profile_img_alt: Author avatar
     background: dark
