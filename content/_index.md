@@ -6,9 +6,13 @@ sections:
     template: section_hero
     title: 'Hi, I''m Thomas Hall.'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      This is my Personal website where you will find out a bit about myself,
+      skills and personal achievements. I may also share some blogs that i find
+      interesting relating to anything IT and cyber related. I currently work as
+      a computer engineer for the public sector but have a strong interest in
+      cyber security and ethical hacking.
+
   - type: section_content
     template: section_content
     title: About
