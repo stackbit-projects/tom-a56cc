@@ -33,11 +33,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Scotland), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Currently working as a computer engineer for the public sector within [Scotland](https://en.wikipedia.org/wiki/Scotland). I have 5 years experience in the IT field briefly my past and present roles include setting up office technology, troubleshooting hardware and software faults, cyber and computer systems validation to CFR compliance. I have always had a strong interest in technology, especially since a young age, I find it interesting to see how the technical elements work and learning the impact it has on our lives. I am naturally a helpful person 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.
+>
+> Elliot Alderson from TV show Mr Robot
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
