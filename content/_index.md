@@ -12,11 +12,13 @@ sections:
     template: section_content
     title: About
     section_id: about
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      This is my Personal website where you will find out a bit about myself,
+      skills and personal achievements. I may also share some blogs that i find
+      interesting relating to anything IT and cyber related. I currently work as
+      a computer engineer for the public sector but have a strong interest in
+      cyber security and ethical hacking.
+
     actions:
       - type: action
         template: action
