@@ -57,7 +57,7 @@ params:
       - type: action
         template: action
         label: LinkedIn
-        url: 'https://www.linkedin.com/in/thomas-h-348'
+        url: 'https://www.linkedin.com/in/thomas-h-34853518a'
         style: icon
         icon_class: linkedin
         new_window: true
