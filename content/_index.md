@@ -34,7 +34,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit Fresh Theme
+  title: Tom Hall
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
